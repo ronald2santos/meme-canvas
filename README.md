@@ -1,7 +1,7 @@
 # Meme Maker
 A simple meme generator made for fun, using canvas and Node.js for the backend.
 
- ![memes](https://www.kotzendes-einhorn.de/blog/wp-content/uploads/2016/11/meme.jpeg)
+ ![memes](https://i.imgur.com/xDPTFUz.jpg)
 
 ## Usage
 Clone or download the repo.
